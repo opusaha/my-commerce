@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Header from './components/header/Header';
-import Shop from './components/shop/Shop'
+import Header from './components/Header/Header';
+import Shop from './components/Shop/Shop'
 function App() {
   return (
     <div>

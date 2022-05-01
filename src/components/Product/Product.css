@@ -1,0 +1,16 @@
+.product-area{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+}
+.text-area{
+    margin: 0px 10px;
+}
+.cart-btn{
+    background-color: goldenrod;
+    padding: 5px 40px;
+    border-radius: 5px;
+    border: 1px solid #a56e06;
+    font-weight: 700;
+    cursor: pointer;
+}
